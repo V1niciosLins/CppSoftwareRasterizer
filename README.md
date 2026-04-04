@@ -26,10 +26,14 @@ cmake -B build
 
 # Compila o projeto otimizado
 cmake --build build
-
+```
 ## Execução:
 
 Inicie o motor pelo terminal. O projeto suporta a injeção de rotas de modelos e texturas via argumentos (ajuste conforme o seu binário):
+
+```bash
+./build/rasterizer path/to/model.obj path/to/texture.png
+```
 
 Controles de Câmera:
 
