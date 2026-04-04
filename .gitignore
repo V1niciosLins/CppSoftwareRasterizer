@@ -1,0 +1,11 @@
+# Ignora a pasta de compilação do CMake
+build/
+
+# Ignora binários e lixo do SO
+*.o
+*.out
+*.exe
+.DS_Store
+
+
+
