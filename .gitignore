@@ -1,8 +1,6 @@
-# Ignora a pasta de compilação do CMake
 build/
 results/
 
-# Ignora binários e lixo do SO
 *.o
 *.out
 *.exe
