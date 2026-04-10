@@ -13,7 +13,7 @@ Um motor de renderização 3D construído 100% do zero, operando exclusivamente 
 - **Multithreading Bruto:** Renderização paralelizada no eixo Y usando OpenMP, esgotando 100% dos núcleos do processador sem *Race Conditions*.
 
 ## Dependências
-- Compilador C++17 ou superior
+- Compilador C++20 ou superior
 - CMake
 - SDL2 (Estritamente para instanciar a janela da SO e ler o teclado)
 
